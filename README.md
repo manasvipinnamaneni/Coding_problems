@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
