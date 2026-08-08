@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
