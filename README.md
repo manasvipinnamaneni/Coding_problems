@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
