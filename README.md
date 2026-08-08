@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0219-contains-duplicate-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0219-contains-duplicate-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
