@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Function
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
