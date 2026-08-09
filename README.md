@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -204,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
