@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 ## Hash Function
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
+| [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
