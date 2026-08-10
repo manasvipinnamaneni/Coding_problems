@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
 | ------- |
