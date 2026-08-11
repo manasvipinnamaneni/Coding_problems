@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0563-binary-tree-tilt) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0563-binary-tree-tilt) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0563-binary-tree-tilt) |
