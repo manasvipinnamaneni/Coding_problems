@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
+| [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -232,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
