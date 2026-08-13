@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
+| [0766-toeplitz-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
