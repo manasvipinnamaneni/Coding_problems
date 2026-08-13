@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
