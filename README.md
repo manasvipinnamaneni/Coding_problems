@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
