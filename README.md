@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
