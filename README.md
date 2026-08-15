@@ -204,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
