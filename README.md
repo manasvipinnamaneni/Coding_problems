@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0867-transpose-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,4 +328,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
