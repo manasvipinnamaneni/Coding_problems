@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1148-article-views-i) |
