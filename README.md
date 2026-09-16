@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0414-third-maximum-number) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -378,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
