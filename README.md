@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0171-excel-sheet-column-number) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
