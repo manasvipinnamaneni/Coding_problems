@@ -1,15 +1,18 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
+        int n = candyType.length;
         HashSet<Integer> set = new HashSet<>();
-        int max = candyType.length / 2;
-        for(int i = 0; i < candyType.length; i++) {
-            set.add(candyType[i]);
+        int k = 0;
+        for(int i = 0; i < n; i++) {
+            if(!set.contains(candyType[i])) {
+                set.add(candyType[i]);
+                candyType[k] = candyType[i];
+                k++;
+            }
         }
-        if(set.size() >= max) {
-            return max;
+        if(k > n/2) {
+            return n/2;
         }
-        else {
-            return set.size();
-        }
+        return k;
     }
 }
