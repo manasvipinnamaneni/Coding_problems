@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3731-find-missing-elements) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
 | [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
