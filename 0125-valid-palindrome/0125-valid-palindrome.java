@@ -6,8 +6,8 @@ class Solution {
             while(left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
             }
-            while(left < right &&!Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
+            while(left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right --;
             }
             char leftchar = Character.toLowerCase(s.charAt(left));
             char rightchar = Character.toLowerCase(s.charAt(right));
