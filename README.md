@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
