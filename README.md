@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0171-excel-sheet-column-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0231-power-of-two) |
