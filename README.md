@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
