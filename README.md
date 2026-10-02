@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/3870-count-commas-in-range) |
 ## Recursion
