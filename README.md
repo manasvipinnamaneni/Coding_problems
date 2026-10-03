@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0091-decode-ways) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
