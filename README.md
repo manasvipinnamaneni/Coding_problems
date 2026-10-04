@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0500-keyboard-row) |
 | [0572-subtree-of-another-tree](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
 | [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
