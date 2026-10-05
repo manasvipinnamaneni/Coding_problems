@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
