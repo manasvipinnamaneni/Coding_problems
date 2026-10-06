@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manasvipinnamaneni/Coding_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
